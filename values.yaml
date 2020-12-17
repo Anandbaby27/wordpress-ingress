@@ -277,7 +277,7 @@ ingress:
 
   ## When the ingress is enabled, a host pointing to this will be created
   ##
-  hostname: wordpress.cmp.unisys-waf.com
+  hostname: wordpress-aws.cmp.unisys-waf.com
 
   ## Ingress annotations done as key:value pairs
   ## For a full list of possible ingress annotations, please see
